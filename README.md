@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About me
+初心者。独学勉強中です。
 <!--
 **hosino-code/hosino-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
